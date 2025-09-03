@@ -2,7 +2,7 @@
 - 👀 I’m [Asfaw](https://www.linkedin.com/in/asfawgedamu/).
 - I'm interested in ...Machine Learning, AI, Deep Learning, Data science , Information  Science , Information Security
 - I working for ethio telecom ...as an Enterprise Tech Training Architect @Telecom Excellence Academy
-- I’m looking to collaborate on ... Applied  Machine Learning Projects
+- I’m looking to collaborate on ... Applied  Machine Learning Projects, full stack backend and front end development 
 - Follow me on **[LinkedIn](https://www.linkedin.com/in/asfawgedamu/)** and **[X](https://x.com/asfawgedamu)** to stay updated.
 
 <!---
