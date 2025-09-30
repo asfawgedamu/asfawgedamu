@@ -42,7 +42,7 @@ I bridge **data, AI, and learning** — helping organizations scale intelligence
 
 I also publish essays, tutorials, and frameworks. Some selected works:
 
-- Blog: *[Your blog link]*  
+- Blog: *[blog link]*  
 - Papers: *Tigrinya Dialect Identification*  
 - Cheat sheets & learning resources (SQL, AI, data engineering) — check out my **“learning-repo”**
 
@@ -53,7 +53,7 @@ I also publish essays, tutorials, and frameworks. Some selected works:
 - 🔗 LinkedIn: [linkedin.com/in/asfawgedamu](https://www.linkedin.com/in/asfawgedamu)  
 - 🐦 X / Twitter: [@asfawgedamu](https://x.com/asfawgedamu)  
 - 📧 Email: your.email@domain.com  
-- 🌐 Portfolio site: *asg.github.io* (if you build one)
+- 🌐 Portfolio site: *asfawgedamu.github.io* (if you build one)
 
 ---
 
