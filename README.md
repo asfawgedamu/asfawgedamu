@@ -50,10 +50,10 @@ I also publish essays, tutorials, and frameworks. Some selected works:
 
 ## 📫 Let’s Connect
 
-- LinkedIn: [linkedin.com/in/asfawgedamu](https://www.linkedin.com/in/asfawgedamu)  
+- LinkedIn: [asfawgedamu](https://www.linkedin.com/in/asfawgedamu)  
 - X / Twitter: [@asfawgedamu](https://x.com/asfawgedamu)  
-- Email: your.email@domain.com  
-- Portfolio site: *asfawgedamu.github.io* (if you build one)
+- Email: asfawg@gmail.com  
+- Portfolio site: *asfawgedamu.github.io* 
 
 ---
 
