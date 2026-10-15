@@ -1,64 +1,45 @@
-# 👋 Hi, I’m Asfaw Gedamu
+# 🖐️ Hi, I'm Asfaw Gedamu
 
-> **Enterprise Tech Training Architect | Data Engineer | ML Practitioner**
+**Enterprise Tech Learning Strategist | Information Systems Expert | ML Practitioner**
 
-I bridge **data, AI, and learning** — helping organizations scale intelligence and capability through systems, algorithms, and people.
-
----
-
-## 🚀 At a Glance
-
-| Role | Focus Areas | Impact |
-|------|--------------|--------|
-| DBA & Data Engineer | Data pipelines, ETL, SQL, cloud data warehousing | Optimizing data for analytics and operations |
-| AI / ML Practitioner | Text classification, dialect modeling, predictive models | Applied learning solutions in real problems |
-| Learning Strategist / Trainer | Curriculum design, technical training, capacity building | Enabling teams through structured learning |
+> I bridge **data, AI, and learning**—helping organizations scale intelligence and technical capabilities through systems, algorithms, and structured training programs.
 
 ---
 
-## 🔍 Featured Projects
+###  At a Glance
 
-> *(Pinned repos + context and metrics)*
-
-- **Tigrinya-Dialect-Identification** — A project to classify Tigrinya dialects (L, Z, D) using character-level CNNs. Achieved ~92.98% accuracy.  
-- **machinelearning** — My sandbox of ML experiments and tutorials (regressions, classification, NLP).  
-- **database** — Collections of SQL scripts, normalization examples, performance tuning guides.  
-- **dbms-** — Comparative DBMS modules (Oracle, MySQL, PostgreSQL) with documentation and queries.
-
-*(Note: each project README should link to detailed architecture, data, code, and “how to run” instructions.)*
+| Role | Focus Areas | Primary Impact |
+| :--- | :--- | :--- |
+| **Data & Systems Engineer** | Data Pipelines, REST APIs, SQL/NoSQL, Cloud Data Warehousing | Optimizing infrastructure for analytics & backend operations |
+| **AI / ML Practitioner** | NLP for Low-Resource Languages, Classification, Predictive Models | Applied machine learning for real-world speech & text problems |
+| **Tech Learning Strategist** | Enterprise Curriculum Design, Technical Training, Capacity Building | Upskilling engineering teams through hands-on lab frameworks |
 
 ---
 
-## 📈 Tech & Tools
+### Featured Projects
 
-- Languages & Frameworks: Python, SQL, PyTorch / TensorFlow, Pandas, NumPy  
-- Databases: Oracle, MySQL, PostgreSQL  
-- Infrastructure & Tools: Linux, Git / GitHub, Docker  
-- Learning & Training: Curriculum design, training labs, technical writing
+* **[API Design Fundamentals](https://github.com/asfawgedamu/api-design-fundamentals)**  
+  *A progressive, 3-level FastAPI lab series (Basic → Intermediate → Enterprise Modular Architecture) covering SQLite ORM, Pydantic validation, JWT security, and Pytest.*
 
----
+* **[Tigrinya Dialect Identification](https://github.com/asfawgedamu/Tigrinya-Dialect-Identification)**  
+  *A Machine Learning project classifying Tigrinya dialects (L, Z, D) using character-level CNNs. Achieved **~92.98% accuracy**.*
 
-## ✍️ Writing & Teaching
-
-I also publish essays, tutorials, and frameworks. Some selected works:
-
-- Blog: *[blog link]*  
-- Papers: *Tigrinya Dialect Identification*  
-- Cheat sheets & learning resources (SQL, AI, data engineering) — check out my **“learning-repo”**
+* **[Database Systems & SQL Sandbox](https://github.com/asfawgedamu/database)**  
+  *Comprehensive SQL scripts, normalization examples, query optimization guides, and comparative schema designs across Oracle, MySQL, and PostgreSQL.*
 
 ---
 
-## 📫 Let’s Connect
+### Tech & Tools
 
-- LinkedIn: [asfawgedamu](https://www.linkedin.com/in/asfawgedamu)  
-- X / Twitter: [@asfawgedamu](https://x.com/asfawgedamu)  
-- Email: asfawg@gmail.com  
-- Portfolio site: *asfawgedamu.github.io* 
+* **Languages & Frameworks:** Python, FastAPI, PyTorch, TensorFlow, Pandas, NumPy, SQL
+* **Databases:** Oracle, MySQL, PostgreSQL, SQLite
+* **Infrastructure & Tools:** Linux (RHEL/Ubuntu), Git/GitHub, Docker, VS Code
+* **Training & Methodologies:** Curriculum Design, Technical Writing, Enterprise Lab Facilitation
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/❤️-Open%20Source-blue"/>
-  <img src="https://img.shields.io/badge/📚-Learning-green"/>
-</p>
+### Let's Connect
 
+* 💼 **LinkedIn:** [linkedin.com/in/asfawgedamu](https://linkedin.com/in/asfawgedamu)
+* 🌐 **Portfolio:** [asfawgedamu.github.io](https://asfawgedamu.github.io)
+* 📧 **Email:** [asfawg@gmail.com](mailto:asfawg@gmail.com)
