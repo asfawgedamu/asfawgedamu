@@ -43,3 +43,9 @@
 * 💼 **LinkedIn:** [linkedin.com/in/asfawgedamu](https://linkedin.com/in/asfawgedamu)
 * 🌐 **Portfolio:** [asfawgedamu.github.io](https://asfawgedamu.github.io)
 * 📧 **Email:** [Send me a message](mailto:asfawg@gmail.com?subject=Inquiry%20from%20GitHub%20Profile&body=Hi%20Asfaw,%0A%0AI%20visited%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20regarding...)
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asfawgedamu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://asfawgedamu.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asfawg@gmail.com?subject=Inquiry%20from%20GitHub%20Profile&body=Hi%20Asfaw,%0A%0AI%20visited%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20regarding...)
