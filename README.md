@@ -42,4 +42,4 @@
 
 * 💼 **LinkedIn:** [linkedin.com/in/asfawgedamu](https://linkedin.com/in/asfawgedamu)
 * 🌐 **Portfolio:** [asfawgedamu.github.io](https://asfawgedamu.github.io)
-* 📧 **Email:** [asfawg@gmail.com](mailto:asfawg@gmail.com)
+* 📧 📧 **Email:** [Send me a message](mailto:asfawg@gmail.com?subject=Inquiry%20from%20GitHub%20Profile&body=Hi%20Asfaw,%0A%0AI%20visited%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20regarding...)
